@@ -24,5 +24,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito por João Henrique. Entre em contato!
 
-[![Gmail Badge](https://img.shields.io/badge/-joaohenriquejc@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaohenriquejc@hotmail.com)](joaohenriquejc@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-joaohenriquejorgecarlos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaohenriquejorgecarlos@gmail.com)](joaohenriquejorgecarlos@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Joao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-henrique-jorge-carlos-6662151aa/)](https://www.linkedin.com/in/joão-henrique-jorge-carlos-6662151aa/) 
