@@ -7,6 +7,11 @@
 
 - [x] Modo Usuário
 - [x] Modo Administrador
+- [x] Venda de Produtos
+- [x] Sistema de repor estoque
+- [x] Sistema de troco
+- [x] Sistema de faturamento da máquina
+- [x] Listagem de inventário dos produtos
 
 ### 🛠 Tecnologias
 
